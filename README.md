@@ -3,6 +3,7 @@ This repository will include all training manuals and videos for the new staff t
 
 ## Finance/Accounting
 **What work does Senior Accounting Associates do?**
-* ATLAS Invoicing Process [ATLAS Invoicing Steps](ATLAS Invoicing Process.pdf)
+* ATLAS Invoicing Process 
+[ATLAS Invoicing Steps in PDF](..ATLAS Invoicing Process.pdf)
 * BIE Invoicing Process
 * Pay Selected Invoices Process
