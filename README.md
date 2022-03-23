@@ -6,6 +6,9 @@ This repository will include all training manuals and videos for the new staff t
 * ATLAS Invoicing Process 
 [ATLAS Invoicing Steps in PDF](https://drive.google.com/file/d/1ZPucJ8aqjHV40W8-3nl_aNZStIim1qDw/view?usp=sharing)
 
+* Setting Up New-Vendor Process 
+[New Vendor Setup Video]()
+
 * BIE Invoicing Process
 [BIE Invoicing Steps in PDF](https://drive.google.com/file/d/1jxiLWFFUb9A-sz325T5vh2GOoqIOR4X7/view?usp=sharing)
 
